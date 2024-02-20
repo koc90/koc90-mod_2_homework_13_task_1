@@ -179,4 +179,5 @@ uri.py
 URI.py
 PostgreSQL_db.txt
 email_tokens.txt
+postgres-data/
 
